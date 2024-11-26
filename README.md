@@ -1,4 +1,4 @@
-**Image Slider Project - 3D Effect, Time Factor & Rotation Effect**
+**Image Slider Project **
 
 Welcome to the Image Slider Project! This project showcases three unique image sliders with various visual effects such as 3D transformation, time-based transitions, and rotation effects. These sliders were built using HTML, CSS, JavaScript, and TypeScript, inspired by the tutorials on the Luna Dev Code YouTube channel.
 
